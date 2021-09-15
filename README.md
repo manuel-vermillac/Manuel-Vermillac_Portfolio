@@ -1,9 +1,4 @@
-# Manuel-Vermillac_Portfolio
-Personnal Portfolio
 
-# My Personal Portfolio - Manuel Vermillac
- Presentation of the projects i've been part of.
- 
 # Project 1: [Le wagon boot camp training files](https://github.com/manuel-vermillac/data-challenges)
  
  This project contains all the files used for the 9-month Data-science bootcamp. When completed, the filled versions of the notebook exercices are kept.
